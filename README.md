@@ -1,1 +1,1 @@
-# Kasra chat app
+# a chat app uses socketIO
