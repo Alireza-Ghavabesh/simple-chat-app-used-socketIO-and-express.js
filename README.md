@@ -1,1 +1,1 @@
-# a chat app uses socketIO
+# a chat app using socketIO
